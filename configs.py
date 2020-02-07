@@ -13,7 +13,7 @@ TASK_STATUS = ""
 ANALYZER = os.path.join(BASE_PATH, "Analyzer")
 
 
-HOST = "192.168.250.146"
-USERNAME = "root"
-PASSWORD = "dk2masRh=="
+HOST = ""
+USERNAME = ""
+PASSWORD = ""
 PORT  ="443"
